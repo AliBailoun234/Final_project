@@ -15,3 +15,6 @@
 1. Who are the top 10 players in points, rebounds, and assists over each decade?
 2. Is there a correlation between where a player went to college and how they perform?
 3. Can a player's height, weight, and position predict their season statistics?
+
+## Resources
+### [Data files](https://www.kaggle.com/datasets/drgilermo/nba-players-stats?resource=download&select=player_data.csv)
