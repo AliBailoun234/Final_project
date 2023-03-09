@@ -20,5 +20,11 @@
 ## Seasons
 In this sub branch, we are aimed to analyze key metrics and anwser the above questions for the season stats spanning from 1960 to 1969. 
 
+## Results
+
+1.Who are the top 10 players in points, rebounds, and assists over each decade?
+During 1960 to 1969, the top 10 players in points are Wilt Chamberlain, Oscar Robertson, Elgin Baylor, Walt Bellamy, Jerry West, Hal Greer, Bailey Howell, Sam Jones, Richie Guerin and Bob Boozer, which is shown on the belwo image.
+![](https://github.com/AliBailoun234/Final_project/blob/Basketball_Data/ERD/ERD.png)
+
 ## Resources
 ### [Data files](https://www.kaggle.com/datasets/drgilermo/nba-players-stats?resource=download&select=player_data.csv)
