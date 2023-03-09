@@ -16,5 +16,9 @@
 2. Is there a correlation between where a player went to college and how they perform?
 3. Can a player's height, weight, and position predict their season statistics?
 
+
+## Seasons
+In this sub branch, we are aimed to analyze key metrics and anwser the above questions for the season stats spanning from 1960 to 1969. 
+
 ## Resources
 ### [Data files](https://www.kaggle.com/datasets/drgilermo/nba-players-stats?resource=download&select=player_data.csv)
