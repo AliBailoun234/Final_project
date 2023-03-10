@@ -15,7 +15,9 @@
 1. Who are the top 10 players in points, rebounds, and assists over each decade?
 2. Is there a correlation between where a player went to college and how they perform?
 3. Can a player's height, weight, and position predict their season statistics?
-4. Has 
+4. Visualizing how shots taken and points scored (perhaps by position) over time.
+5. Using player clustering and unsupervised learning techniques to cluster players based on their perfomance statistics. 
+6. Creating how two players (or perhaps two teams) would face against each other. 
 
 ## Resources
 ### [Data files](https://www.kaggle.com/datasets/drgilermo/nba-players-stats?resource=download&select=player_data.csv)
