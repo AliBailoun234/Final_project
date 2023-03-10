@@ -6,7 +6,7 @@
 
 ## Data
 
-### Our database consists of three main sources: season stats spanning from 1950 to 2017, player personal information, and player college information. We have joined the data on player name and from there we will be analyzing key metrics such as player averages, team averages, best seasons, and best players. We will be doing our main analysis off of the season stats data source and bringing in the other two for complimentary data analysis. We have divided the data into five different time periods: 1950-1959, 1960-1969, 1970-1985, 1986-1999, and 2000-2017. We will be analyzing trends by year to see if there are any types of players that were more prominent in earlier years that become less prominent. We will use a cluster analysis for our machine model to identify which decade a player appeared in based on their metrics.
+### Our database consists of three main sources: season stats spanning from 1950 to 2017, player personal information, and player college information. We have joined the data on player name and from there we will be analyzing key metrics such as player averages, team averages, best seasons, and best players. We will be doing our main analysis of the season stats data source and bringing in the other two for complimentary data analysis. We have divided the data into five different time periods: 1950-1959, 1960-1969, 1970-1985, 1986-1999, and 2000-2017. We will be analyzing trends by year to see if there are any types of players that were more prominent in earlier years that become less prominent. We will use a cluster analysis for our machine model to identify which decade a player appeared in based on their metrics.
 ![](https://github.com/AliBailoun234/Final_project/blob/main/ERD/ERD.png)
 
 ## Resources
