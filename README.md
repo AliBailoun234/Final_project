@@ -2,7 +2,7 @@
 
 ## Overview
 
-### Our group has selected basketball as our project topic because there are important features to the sport where data analytics can bring a deeper understanding to what goes into each game. We will be analyzing trends by year to see if there are any types of players that were more prominent in earlier years that become less prominent. We will use a cluster analysis for our machine model to identify which decade a player appeared in based on their metrics.
+### Our group has selected basketball as our project topic because there are important features to the sport where data analytics can bring a deeper understanding to what goes into each game. We will be analyzing trends by year to see if there are any types of players that were more prominent in earlier years that become less prominent. We will use a cluster analysis for our machine learning model to identify which decade a player appeared in based on their metrics.
 
 ## Data
 
