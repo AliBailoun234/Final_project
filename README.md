@@ -24,4 +24,5 @@
 1. Decided on Basketball as our sport to analyze as well as data sources
 2. Created ERD for how we'd like our data to be joined
 3. Divided the data into subsets for each team member to begin to create takeaways
-3. Began to discuss which aspects of our data would be a good fit for machine learning
+4. Began to discuss which aspects of our data would be a good fit for machine learning
+5. Decided to use a cluster analysis for our machine learning model
