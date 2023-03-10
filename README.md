@@ -10,7 +10,7 @@
 ![](https://github.com/AliBailoun234/Final_project/blob/main/ERD/ERD.png)
 
 ## Resources
-### [Data files](https://www.kaggle.com/datasets/drgilermo/nba-players-stats?resource=download&select=player_data.csv)
+### [Kaggle: NBA Players Stats Since 1950](https://www.kaggle.com/datasets/drgilermo/nba-players-stats?resource=download&select=player_data.csv)
 
 ## Questions to answer
 
