@@ -11,7 +11,8 @@
 
 ## Machine Learning
 
-### Two Machine Learning exercises were performed on our data. Both of which were used to cluster our data into meaningful buckets. The [first](https://github.com/AliBailoun234/Final_project/blob/Machine-Learning/Machine%20Learning/Machine_Learning_Test.ipynb) used Decade, Position, Assists, and Points to show if there is statistical correlation between a players decade they played in and their position to their points and assists. Using an elbow curve, we decided to use 7 clusters, and from there we performed a cluster analysis using PCA (shown below). We also used the balanced accuracy score and confusion matrix to show the key takeaways from the clusters.
+### Two Machine Learning exercises were performed on our data. Both of which were used to cluster our data into meaningful buckets. The [first](https://github.com/AliBailoun234/Final_project/blob/Machine-Learning/Machine%20Learning/Machine_Learning_Test.ipynb) used Decade, Position, Assists, and Points to show if there is statistical correlation between a player's decade they played in and their position to their points and assists. Using an elbow curve, we decided to use 7 clusters, and from there we performed a cluster analysis using PCA (shown below). We also used the balanced accuracy score and confusion matrix to show the key takeaways from the clusters. With our balanced accuracy score being 0.07, we can conclude that there is no statistical significance between a players decade and position to their points and assists.
+![Cluster](https://github.com/AliBailoun234/Final_project/blob/Machine-Learning/Files/PCA%20Data%20Clustering.png)
 
 ## Questions to answer
 
