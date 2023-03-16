@@ -26,3 +26,6 @@
 3. Divided the data into subsets for each team member to begin to create takeaways
 4. Began to discuss which aspects of our data would be a good fit for machine learning
 5. Decided to use a cluster analysis for our machine learning model
+
+## Information to be included in the dashboard
+
