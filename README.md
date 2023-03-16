@@ -9,6 +9,10 @@
 ### Our database consists of three main sources: season stats spanning from 1950 to 2017, player personal information, and player college information. We have joined the data on player name and from there we will be analyzing key metrics such as player averages, team averages, best seasons, and best players. We will be doing our main analysis of the season stats data source and bringing in the other two for complimentary data analysis. We have divided the data into five different time periods: 1950-1959, 1960-1969, 1970-1985, 1986-1999, and 2000-2017.
 ![](https://github.com/AliBailoun234/Final_project/blob/main/ERD/ERD.png)
 
+## Machine Learning
+
+### Two Machine Learning exercises were performed on our data. Both of which were used to cluster our data into meaningful buckets. The [first](https://github.com/AliBailoun234/Final_project/blob/Machine-Learning/Machine%20Learning/Machine_Learning_Test.ipynb) used Decade, Position, Assists, and Points to show if there is statistical correlation between a players decade they played in and their position to their points and assists. Using an elbow curve, we decided to use 7 clusters, and from there we performed a cluster analysis using PCA (shown below). We also used the balanced accuracy score and confusion matrix to show the key takeaways from the clusters.
+
 ## Questions to answer
 
 1. Who are the top 10 players in points, rebounds, and assists over each decade?
