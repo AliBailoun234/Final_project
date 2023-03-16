@@ -37,6 +37,8 @@
   - Used Pandas library to create, transform, and interpret the data
   - StandardScaler and PCA allowed us to create an elbow curve for our cluster analysis
   - Balanced Random Forest Classifier and Balanced Accuracy Score allowed us to show important takeaways
+3. Tableau
+  - We plan to use Tableau to display our analysis and tell the story of basketball statistics over the years
   
 ## Resources
 ### [Kaggle: NBA Players Stats Since 1950](https://www.kaggle.com/datasets/drgilermo/nba-players-stats?resource=download&select=player_data.csv)
