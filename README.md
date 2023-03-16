@@ -2,7 +2,7 @@
 
 ## Overview
 
-### Professional basketball has looked very different over the past years thanks to the use of data analytics.Data analytics and statistics have improved the way we watch, engage, and root for teams. Not only has it improved the way the viewers experience the game, but it has also improved the way the game is played. Thus, Our group has selected basketball as our project topic because there are important features to the sport where data analytics can bring a deeper understanding to what goes into each game. We will be analyzing trends by year to see if there are any types of players that were more prominent in earlier years that become less prominent. We will use a cluster analysis for our machine learning model to identify which decade a player appeared in based on their metrics.
+### Professional basketball has looked very different over the past years thanks to the use of data analytics. Data analytics and statistics have improved the way we watch, engage, and root for teams. Not only has it improved the way the viewers experience the game, but it has also improved the way the game is played. Thus, Our group has selected basketball as our project topic because there are important features to the sport where data analytics can bring a deeper understanding to what goes into each game. We will be analyzing trends by year to see if there are any types of players that were more prominent in earlier years that become less prominent. We will use a cluster analysis for our machine learning model to identify which decade a player appeared in based on their metrics.
 
 ## Data
 
