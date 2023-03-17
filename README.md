@@ -29,9 +29,9 @@
 3. Divided the data into subsets for each team member to begin to create takeaways
 4. Began to discuss which aspects of our data would be a good fit for machine learning
 5. Decided to use a cluster analysis for our machine learning model
-6. Compared Decade and Position to Assists, and Points to find determine if a statistically significant correlation exists.
-7. Seperated the data into seven clusters because of the associated elbow curve and ran a cluster analysis.
-8. Determined there was no statistically significant correlation between Decade and Position to Assists and Points.
+6. Compared Decade and Position to Assists, and Points to find determine if a statistically significant correlation exists
+7. Seperated the data into seven clusters because of the associated elbow curve and ran a cluster analysis
+8. Determined there was no statistically significant correlation between Decade and Position to Assists and Points
 
 ## Technologies
 
