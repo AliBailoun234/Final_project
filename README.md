@@ -11,7 +11,7 @@
 
 ## Machine Learning
 
-### The Machine Learning exercises performed on our data were used to cluster our data into meaningful buckets. We used key numeric fields such as Field Goals, Two Pointers, Free Throws, Assists, and Points to show if there is statistical correlation to a player's position. Using an elbow curve (shown below), we decided to use 6 clusters, and from there we performed a cluster analysis using PCA (shown below). We will continue to examine our data and test other fields to determine where the best correlation occurs.
+### The Machine Learning exercises performed on our data were used to cluster our data into meaningful buckets. We used key numeric fields such as Field Goals, Two Pointers, Free Throws, Assists, and Points to show if there is statistical correlation to a player's position. Using an elbow curve (shown below), we decided to use 5 clusters, and from there we performed a cluster analysis using PCA (shown below). We will continue to examine our data and test other fields to determine where the best correlation occurs.
 ![Elbow Curve](https://github.com/AliBailoun234/Final_project/blob/main/Files/Elbow%20Curve.png)
 ![Cluster](https://github.com/AliBailoun234/Final_project/blob/main/Files/PCA%20Data%20Clustering.png)
 
