@@ -13,7 +13,7 @@
 
 ### Two Machine Learning exercises were performed on our data. Both of which were used to cluster our data into meaningful buckets. The [first](https://github.com/AliBailoun234/Final_project/blob/Machine-Learning/Machine%20Learning/Machine_Learning_Test.ipynb) used Decade, Position, Assists, and Points to show if there is statistical correlation between a player's decade they played in and their position to their points and assists. Using an elbow curve (shown below), we decided to use 7 clusters, and from there we performed a cluster analysis using PCA (shown below).
 ![Elbow Curve](https://github.com/AliBailoun234/Final_project/blob/main/Files/Elbow%20Curve.png)
-![Cluster]([https://github.com/AliBailoun234/Final_project/blob/Machine-Learning/Files/PCA%20Data%20Clustering.png](https://github.com/AliBailoun234/Final_project/blob/main/Files/PCA%20Data%20Clustering.png))
+![Cluster](https://github.com/AliBailoun234/Final_project/blob/main/Files/PCA%20Data%20Clustering.png)
 
 ## Questions to answer
 
