@@ -40,7 +40,6 @@ The Machine Learning exercises performed on our data were used to cluster our da
 2. Python
   - Used Pandas library to create, transform, and interpret the data
   - StandardScaler and PCA allowed us to create an elbow curve for our cluster analysis
-  - Balanced Random Forest Classifier and Balanced Accuracy Score allowed us to show important takeaways
 3. Tableau
   - We plan to use Tableau to display our analysis and tell the story of basketball statistics over the years
   
