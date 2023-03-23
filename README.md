@@ -40,7 +40,11 @@ The Machine Learning exercises performed on our data were used to cluster our da
 * During 1960 to 1969, the top 10 players in assists are Oscar Robertson, Guy Rodgers, Wilt Chamberlain, Lenny Wilkens, Richie Guerin, Bill Russell, Jerry West, Hal Greer, Elgin Baylor, and K.C. Jones.
 ![](https://github.com/AliBailoun234/Final_project/blob/main/Files/Assists.png)
 
+## Tableau
 
+### We utilized Tableau to show our main takeaways such as top players for assists and points and top teams for points and assists across the decades.
+
+![](https://github.com/AliBailoun234/Final_project/blob/main/Files/Tableau%20Dashboard.png)
 
 ## Milestones
 
