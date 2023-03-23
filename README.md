@@ -22,6 +22,14 @@ The Machine Learning exercises performed on our data were used to cluster our da
 3. Can a player's height, weight, and position predict their season statistics?
 4. Are there types of players that appear in earlier decades that do not appear in later decades?
 
+
+## Results
+
+1. Our group divided the data into five different time periods and for the Q1, we figured out the top 10 playrers in points, rebounds, and assists over each decade. Let's use 1960-1969 as an example to show the process and results here.
+  * 
+
+
+
 ## Milestones
 
 1. Decided on Basketball as our sport to analyze as well as data sources
