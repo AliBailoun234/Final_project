@@ -31,13 +31,13 @@ The Machine Learning exercises performed on our data were used to cluster our da
    * Sort value by 'PTS','TRB' and 'AST'
    * Visualization
   
-   * During 1960 to 1969, the top 10 players in points are Wilt Chamberlain, Oscar Robertson, Elgin Baylor, Walt Bellamy, Jerry West, Hal Greer, Bailey Howell, Sam Jones, Richie Guerin and Bob Boozer.
+* During 1960 to 1969, the top 10 players in points are Wilt Chamberlain, Oscar Robertson, Elgin Baylor, Walt Bellamy, Jerry West, Hal Greer, Bailey Howell, Sam Jones, Richie Guerin and Bob Boozer.
 ![](https://github.com/AliBailoun234/Final_project/blob/main/Files/Total%20points.png)
 
-  * During 1960 to 1969, the top 10 players in rebounds are Wilt Chamberlain, Bill Russell, Walt Bellamy, Elgin Baylor, Jerry Lucas, Bailey Howell, Johnny Green, Ray Scott, Nate Thurmond and Bob Pettit.
+* During 1960 to 1969, the top 10 players in rebounds are Wilt Chamberlain, Bill Russell, Walt Bellamy, Elgin Baylor, Jerry Lucas, Bailey Howell, Johnny Green, Ray Scott, Nate Thurmond and Bob Pettit.
 ![](https://github.com/AliBailoun234/Final_project/blob/main/Files/Rebounds.png)
 
-  * During 1960 to 1969, the top 10 players in assists are Oscar Robertson, Guy Rodgers, Wilt Chamberlain, Lenny Wilkens, Richie Guerin, Bill Russell, Jerry West, Hal Greer, Elgin Baylor, and K.C. Jones.
+* During 1960 to 1969, the top 10 players in assists are Oscar Robertson, Guy Rodgers, Wilt Chamberlain, Lenny Wilkens, Richie Guerin, Bill Russell, Jerry West, Hal Greer, Elgin Baylor, and K.C. Jones.
 ![](https://github.com/AliBailoun234/Final_project/blob/main/Files/Assists.png)
 
 
