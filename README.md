@@ -27,17 +27,17 @@ The Machine Learning exercises performed on our data were used to cluster our da
 
 1. Our group divided the data into five different time periods. To solve Q1, we should figure out the top 10 playrers in points, rebounds, and assists over each decade. This question can be solved by using same process in each decade. Let's use 1960-1969 as an example to show the process and results here.  Key points are listed as below.
 
-  * Groupby 'Player'
-  * Sort value by 'PTS','TRB' and 'AST'
-  * Visualization
+   * Groupby 'Player'
+   * Sort value by 'PTS','TRB' and 'AST'
+   * Visualization
   
- * During 1960 to 1969, the top 10 players in points are Wilt Chamberlain, Oscar Robertson, Elgin Baylor, Walt Bellamy, Jerry West, Hal Greer, Bailey Howell, Sam Jones, Richie Guerin and Bob Boozer.
+   * During 1960 to 1969, the top 10 players in points are Wilt Chamberlain, Oscar Robertson, Elgin Baylor, Walt Bellamy, Jerry West, Hal Greer, Bailey Howell, Sam Jones, Richie Guerin and Bob Boozer.
 ![](https://github.com/AliBailoun234/Final_project/blob/main/Files/Total%20points.png)
 
-* During 1960 to 1969, the top 10 players in rebounds are Wilt Chamberlain, Bill Russell, Walt Bellamy, Elgin Baylor, Jerry Lucas, Bailey Howell, Johnny Green, Ray Scott, Nate Thurmond and Bob Pettit.
+  * During 1960 to 1969, the top 10 players in rebounds are Wilt Chamberlain, Bill Russell, Walt Bellamy, Elgin Baylor, Jerry Lucas, Bailey Howell, Johnny Green, Ray Scott, Nate Thurmond and Bob Pettit.
 ![](https://github.com/AliBailoun234/Final_project/blob/main/Files/Rebounds.png)
 
-* During 1960 to 1969, the top 10 players in assists are Oscar Robertson, Guy Rodgers, Wilt Chamberlain, Lenny Wilkens, Richie Guerin, Bill Russell, Jerry West, Hal Greer, Elgin Baylor, and K.C. Jones.
+  * During 1960 to 1969, the top 10 players in assists are Oscar Robertson, Guy Rodgers, Wilt Chamberlain, Lenny Wilkens, Richie Guerin, Bill Russell, Jerry West, Hal Greer, Elgin Baylor, and K.C. Jones.
 ![](https://github.com/AliBailoun234/Final_project/blob/main/Files/Assists.png)
 
 
