@@ -25,7 +25,8 @@ The Machine Learning exercises performed on our data were used to cluster our da
 
 ## Results
 
-1. Our group divided the data into five different time periods and for the Q1, we figured out the top 10 playrers in points, rebounds, and assists over each decade. Let's use 1960-1969 as an example to show the process and results here. Key points are listed as below.
+1. Our group divided the data into five different time periods. To solve Q1, we should figure out the top 10 playrers in points, rebounds, and assists over each decade. This question can be solved by using same process in each decade. Let's use 1960-1969 as an example to show the process and results here.  Key points are listed as below.
+
   * Groupby 'Player'
   * Sort value by 'PTS','TRB' and 'AST'
   * Visualization
